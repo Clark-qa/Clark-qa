@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clark-qa
-- 👀 I’m interested in QA, automation test and yes A.I
+- 👀 I’m interested in QA, automation test and yes A.I (A.I, ML, Deep learning...)
 - 🌱 I’m currently learning typescript, js, python, A.I (LLM, prompt, code ...)
 - 💞️ I’m looking to collaborate on many project 
 - 📫 How to reach me: dm me via slack: mai.thanh.cuong@moneyforward.co.jp
